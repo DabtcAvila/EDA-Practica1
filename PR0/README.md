@@ -1,5 +1,13 @@
 # Práctica 1: Tablas de Hash - Comparación de Estructuras de Datos
 
+Autores
+Estudiante: David Fernando Avila Díaz
+Clave Única: 197851
+
+Estudiante: José Gerardo Malfavaun Gorostizaga
+Clave Única: 213398
+
+
 ## Descripción del Proyecto
 
 Este proyecto implementa dos soluciones para detectar pacientes con registros médicos idénticos en un centro de salud:
