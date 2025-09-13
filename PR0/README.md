@@ -1,6 +1,5 @@
 # Práctica 1: Tablas de Hash - Comparación de Estructuras de Datos
 
-Autores
 Estudiante: David Fernando Avila Díaz
 Clave Única: 197851
 
