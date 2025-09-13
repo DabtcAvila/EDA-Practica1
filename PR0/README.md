@@ -166,7 +166,13 @@ Los benchmarks muestran que:
    - Para n > 1000: Usar tabla hash es altamente recomendado
    - Para datos con patrones conocidos: Optimizar función hash específicamente
 
-## Autor
+## Autores
 
-Desarrollado para el curso de Estructuras de Datos y Algoritmos
+**Estudiante:** David Fernando Avila Díaz  
+**Clave Única:** 197851
+
+**Estudiante:** José Gerardo Malfavaun Gorostizaga  
+**Clave Única:** 213398
+
+Desarrollado para el curso de Estructuras de Datos y Algoritmos  
 Instituto Tecnológico Autónomo de México (ITAM)

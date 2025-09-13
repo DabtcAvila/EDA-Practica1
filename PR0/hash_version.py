@@ -2,6 +2,11 @@
 """
 Versión con tabla hash para detectar pacientes con registros idénticos.
 Utiliza una tabla hash con diferentes funciones hash opcionales para minimizar colisiones.
+
+Estudiante: David Fernando Avila Díaz - Clave Única: 197851
+Estudiante: José Gerardo Malfavaun Gorostizaga - Clave Única: 213398
+Instituto Tecnológico Autónomo de México (ITAM)
+Estructuras de Datos y Algoritmos
 """
 
 import sys

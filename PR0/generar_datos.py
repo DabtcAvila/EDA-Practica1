@@ -2,6 +2,11 @@
 """
 Generador de datos de prueba para el análisis de pacientes.
 Genera archivos con diferentes tamaños y proporciones de duplicados.
+
+Estudiante: David Fernando Avila Díaz - Clave Única: 197851
+Estudiante: José Gerardo Malfavaun Gorostizaga - Clave Única: 213398
+Instituto Tecnológico Autónomo de México (ITAM)
+Estructuras de Datos y Algoritmos
 """
 
 import random

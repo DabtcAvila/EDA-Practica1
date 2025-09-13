@@ -2,6 +2,11 @@
 """
 Script de benchmark para comparar el rendimiento de las dos implementaciones.
 Genera gráficas comparativas del tiempo de ejecución.
+
+Estudiante: David Fernando Avila Díaz - Clave Única: 197851
+Estudiante: José Gerardo Malfavaun Gorostizaga - Clave Única: 213398
+Instituto Tecnológico Autónomo de México (ITAM)
+Estructuras de Datos y Algoritmos
 """
 
 import subprocess

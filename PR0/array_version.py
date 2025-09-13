@@ -2,6 +2,11 @@
 """
 Versión con arreglo lineal para detectar pacientes con registros idénticos.
 Almacena cada registro de paciente y busca duplicados mediante comparación lineal.
+
+Estudiante: David Fernando Avila Díaz - Clave Única: 197851
+Estudiante: José Gerardo Malfavaun Gorostizaga - Clave Única: 213398
+Instituto Tecnológico Autónomo de México (ITAM)
+Estructuras de Datos y Algoritmos
 """
 
 import sys
